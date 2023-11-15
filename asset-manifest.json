@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/digi/static/js/main.f6cb3085.js",
+    "main.js": "/digi/static/js/main.d97bd8c5.js",
     "index.html": "/digi/index.html",
-    "main.f6cb3085.js.map": "/digi/static/js/main.f6cb3085.js.map"
+    "main.d97bd8c5.js.map": "/digi/static/js/main.d97bd8c5.js.map"
   },
   "entrypoints": [
-    "static/js/main.f6cb3085.js"
+    "static/js/main.d97bd8c5.js"
   ]
 }
